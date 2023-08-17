@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.container{
+    padding-top: 20%;
+    
+}
+input[type="text"]{
+    width: 400px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+input[type="password"]{
+    width: 400px;
+    padding: 5px;
+    margin-bottom: 12px;
+}
+.abc{
+    width: 410px;
+    margin-top: 20px;
+}
+button{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: blue;
+    color: white;
+    }
+label{
+    padding-right: 40px;
+}
